@@ -2,6 +2,6 @@
 
 ## Screenshot
 
-<img src="assets/screenshot/Codes1.jpg" />
-<img src="assets/screenshot/Codes2.jpg" />
-<img src="assets/screenshot/Codes3.jpg" />
+<img src="screenshot/Codes1.jpg" />
+<img src="screenshot/Codes2.jpg" />
+<img src="screenshot/Codes3.jpg" />
